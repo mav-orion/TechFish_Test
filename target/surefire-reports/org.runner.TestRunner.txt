@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 22.206 s <<< FAILURE! - in org.runner.TestRunner
+EMPTY_NAME(Validate the login page)  Time elapsed: 6.928 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+
+EMPTY_NAME(Validate the login page)  Time elapsed: 4.727 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+
+EMPTY_NAME(Validate the login page)  Time elapsed: 4.801 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+
+EMPTY_NAME(Validate the login page)  Time elapsed: 4.699 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+

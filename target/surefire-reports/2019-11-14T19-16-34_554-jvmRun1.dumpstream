@@ -1,0 +1,1437 @@
+# Created at 2019-11-14T19:17:03.673
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-14T19:17:07.156
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:07.159
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-14T19:17:07.161
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-14T19:17:07.164
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.166
+Unexpected IOException with stream: 3
+
+# Created at 2019-11-14T19:17:07.168
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.170
+Unexpected IOException with stream: 3
+
+# Created at 2019-11-14T19:17:07.172
+Unexpected IOException with stream: 9
+
+# Created at 2019-11-14T19:17:07.174
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-14T19:17:07.177
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-14T19:17:07.179
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.181
+Unexpected IOException with stream: .
+
+# Created at 2019-11-14T19:17:07.184
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-14T19:17:07.186
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-14T19:17:07.188
+Unexpected IOException with stream: 4
+
+# Created at 2019-11-14T19:17:07.190
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-14T19:17:07.192
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:07.194
+Unexpected IOException with stream: W
+
+# Created at 2019-11-14T19:17:07.196
+Unexpected IOException with stream: A
+
+# Created at 2019-11-14T19:17:07.198
+Unexpected IOException with stream: R
+
+# Created at 2019-11-14T19:17:07.200
+Unexpected IOException with stream: N
+
+# Created at 2019-11-14T19:17:07.203
+Unexpected IOException with stream: I
+
+# Created at 2019-11-14T19:17:07.206
+Unexpected IOException with stream: N
+
+# Created at 2019-11-14T19:17:07.208
+Unexpected IOException with stream: G
+
+# Created at 2019-11-14T19:17:07.211
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-14T19:17:07.213
+Unexpected IOException with stream: :
+
+# Created at 2019-11-14T19:17:07.215
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.218
+Unexpected IOException with stream: T
+
+# Created at 2019-11-14T19:17:07.220
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.223
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.225
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.228
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.230
+Unexpected IOException with stream: v
+
+# Created at 2019-11-14T19:17:07.232
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.234
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.237
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.240
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.242
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.244
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.246
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.248
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.250
+Unexpected IOException with stream: f
+
+# Created at 2019-11-14T19:17:07.252
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.255
+Unexpected IOException with stream: C
+
+# Created at 2019-11-14T19:17:07.257
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.259
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.261
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.263
+Unexpected IOException with stream: m
+
+# Created at 2019-11-14T19:17:07.265
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.267
+Unexpected IOException with stream: D
+
+# Created at 2019-11-14T19:17:07.269
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.271
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.273
+Unexpected IOException with stream: v
+
+# Created at 2019-11-14T19:17:07.275
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.277
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.279
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.281
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.284
+Unexpected IOException with stream: a
+
+# Created at 2019-11-14T19:17:07.286
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.288
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.290
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.292
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.295
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.297
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.298
+Unexpected IOException with stream: b
+
+# Created at 2019-11-14T19:17:07.300
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.302
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.304
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.306
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.309
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.310
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.312
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.314
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.315
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.318
+Unexpected IOException with stream: d
+
+# Created at 2019-11-14T19:17:07.320
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.322
+Unexpected IOException with stream: w
+
+# Created at 2019-11-14T19:17:07.324
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.326
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.327
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.331
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.334
+Unexpected IOException with stream: C
+
+# Created at 2019-11-14T19:17:07.336
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.339
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.341
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.343
+Unexpected IOException with stream: m
+
+# Created at 2019-11-14T19:17:07.345
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.347
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.350
+Unexpected IOException with stream: v
+
+# Created at 2019-11-14T19:17:07.352
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.354
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.356
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.358
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.360
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.361
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.363
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.365
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.368
+Unexpected IOException with stream: 8
+
+# Created at 2019-11-14T19:17:07.370
+Unexpected IOException with stream: .
+
+# Created at 2019-11-14T19:17:07.372
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:07.374
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:07.376
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:07.377
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-14T19:17:07.380
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-14T19:17:07.382
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.384
+Unexpected IOException with stream: 3
+
+# Created at 2019-11-14T19:17:07.386
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.388
+Unexpected IOException with stream: 3
+
+# Created at 2019-11-14T19:17:07.390
+Unexpected IOException with stream: 9
+
+# Created at 2019-11-14T19:17:07.392
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-14T19:17:07.394
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-14T19:17:07.396
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.399
+Unexpected IOException with stream: .
+
+# Created at 2019-11-14T19:17:07.401
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-14T19:17:07.403
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-14T19:17:07.405
+Unexpected IOException with stream: 8
+
+# Created at 2019-11-14T19:17:07.407
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-14T19:17:07.409
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:07.411
+Unexpected IOException with stream: W
+
+# Created at 2019-11-14T19:17:07.413
+Unexpected IOException with stream: A
+
+# Created at 2019-11-14T19:17:07.415
+Unexpected IOException with stream: R
+
+# Created at 2019-11-14T19:17:07.417
+Unexpected IOException with stream: N
+
+# Created at 2019-11-14T19:17:07.419
+Unexpected IOException with stream: I
+
+# Created at 2019-11-14T19:17:07.421
+Unexpected IOException with stream: N
+
+# Created at 2019-11-14T19:17:07.423
+Unexpected IOException with stream: G
+
+# Created at 2019-11-14T19:17:07.425
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-14T19:17:07.428
+Unexpected IOException with stream: :
+
+# Created at 2019-11-14T19:17:07.430
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.432
+Unexpected IOException with stream: T
+
+# Created at 2019-11-14T19:17:07.435
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.437
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.439
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.441
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.444
+Unexpected IOException with stream: v
+
+# Created at 2019-11-14T19:17:07.446
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.448
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.450
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.452
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.454
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.456
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.458
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.461
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.463
+Unexpected IOException with stream: f
+
+# Created at 2019-11-14T19:17:07.464
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.467
+Unexpected IOException with stream: C
+
+# Created at 2019-11-14T19:17:07.468
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.470
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.472
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.474
+Unexpected IOException with stream: m
+
+# Created at 2019-11-14T19:17:07.476
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.478
+Unexpected IOException with stream: D
+
+# Created at 2019-11-14T19:17:07.480
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.481
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.483
+Unexpected IOException with stream: v
+
+# Created at 2019-11-14T19:17:07.485
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.487
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.489
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.492
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.494
+Unexpected IOException with stream: a
+
+# Created at 2019-11-14T19:17:07.496
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.498
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.500
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.502
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.505
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.507
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.509
+Unexpected IOException with stream: b
+
+# Created at 2019-11-14T19:17:07.512
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.513
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.515
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.517
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.519
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.522
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.524
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.526
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.527
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.529
+Unexpected IOException with stream: d
+
+# Created at 2019-11-14T19:17:07.531
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.533
+Unexpected IOException with stream: w
+
+# Created at 2019-11-14T19:17:07.535
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.537
+Unexpected IOException with stream: t
+
+# Created at 2019-11-14T19:17:07.539
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.541
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.543
+Unexpected IOException with stream: C
+
+# Created at 2019-11-14T19:17:07.545
+Unexpected IOException with stream: h
+
+# Created at 2019-11-14T19:17:07.547
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.549
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.551
+Unexpected IOException with stream: m
+
+# Created at 2019-11-14T19:17:07.553
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.556
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.557
+Unexpected IOException with stream: v
+
+# Created at 2019-11-14T19:17:07.560
+Unexpected IOException with stream: e
+
+# Created at 2019-11-14T19:17:07.561
+Unexpected IOException with stream: r
+
+# Created at 2019-11-14T19:17:07.563
+Unexpected IOException with stream: s
+
+# Created at 2019-11-14T19:17:07.566
+Unexpected IOException with stream: i
+
+# Created at 2019-11-14T19:17:07.570
+Unexpected IOException with stream: o
+
+# Created at 2019-11-14T19:17:07.571
+Unexpected IOException with stream: n
+
+# Created at 2019-11-14T19:17:07.573
+Unexpected IOException with stream:  
+
+# Created at 2019-11-14T19:17:07.577
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-14T19:17:07.579
+Unexpected IOException with stream: 8
+
+# Created at 2019-11-14T19:17:07.581
+Unexpected IOException with stream: .
+
+# Created at 2019-11-14T19:17:07.582
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:07.584
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:10.289
+Unexpected IOException with stream: Nov 14, 2019 7:17:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2019-11-14T19:17:12.944
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:12.947
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:12.950
+Unexpected IOException with stream: 32m
+
+# Created at 2019-11-14T19:17:12.951
+Unexpected IOException with stream: .
+
+# Created at 2019-11-14T19:17:12.954
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:12.955
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:12.957
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-14T19:17:13.007
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:13.009
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:13.011
+Unexpected IOException with stream: 31m
+
+# Created at 2019-11-14T19:17:13.013
+Unexpected IOException with stream: F
+
+# Created at 2019-11-14T19:17:13.015
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:13.018
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:13.019
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-14T19:17:13.022
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:13.024
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:13.027
+Unexpected IOException with stream: 36m
+
+# Created at 2019-11-14T19:17:13.029
+Unexpected IOException with stream: -
+
+# Created at 2019-11-14T19:17:13.031
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:13.033
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:13.035
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-14T19:17:13.037
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:13.038
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:13.040
+Unexpected IOException with stream: 36m
+
+# Created at 2019-11-14T19:17:13.041
+Unexpected IOException with stream: -
+
+# Created at 2019-11-14T19:17:13.044
+Unexpected IOException with stream: 
+
+# Created at 2019-11-14T19:17:13.046
+Unexpected IOException with stream: [
+
+# Created at 2019-11-14T19:17:13.048
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-14T19:17:13.053
+Unexpected IOException: 7,1,Validate the login page,EMPTY_NAME(Validate the login page),null,no such element: Unable to locate element: {"method":"css selector"\002C"selector":"#username"}\000A  (Session info: chrome=78.0.3904.97)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH03'\002C ip: '192.168.25.65'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 78.0.3904.97\002C chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc...\002C userDataDir: C:\005CUsers\005CDURGAN\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:64272}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 2f1f7ca5407edeadf4187f98c17aee12\000A*** Element info: {Using=id\002C value=username},null,no such element: Unable to locate element: {"method":"css selector"\002C"selector":"#username"}\000A  (Session info: chrome=78.0.3904.97)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH03'\002C ip: '192.168.25.65'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 78.0.3904.97\002C chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc...\002C userDataDir: C:\005CUsers\005CDURGAN\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:64272}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 2f1f7ca5407edeadf4187f98c17aee12\000A*** Element info: {Using=id\002C value=username},no such element: Unable to locate element: {"method":"css selector"\002C"selector":"#username"}\000A  (Session info: chrome=78.0.3904.97)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH03'\002C ip: '192.168.25.65'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 78.0.3904.97\002C chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc...\002C userDataDir: C:\005CUsers\005CDURGAN\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:64272}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 2f1f7ca5407edeadf4187f98c17aee12\000A*** Element info: {Using=id\002C value=username},org.openqa.selenium.NoSuchElementException: \000Ano such element: Unable to locate element: {"method":"css selector"\002C"selector":"#username"}\000A  (Session info: chrome=78.0.3904.97)\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH03'\002C ip: '192.168.25.65'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 78.0.3904.97\002C chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc...\002C userDataDir: C:\005CUsers\005CDURGAN\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:64272}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 2f1f7ca5407edeadf4187f98c17aee12\000A*** Element info: {Using=id\002C value=username}\000A
+
+
+# Created at 2019-11-14T19:17:13.060
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.063
+Unexpected IOException with stream: [31mFailed scenarios:[0m
+
+
+# Created at 2019-11-14T19:17:13.067
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:11 [0m
+
+# Created at 2019-11-14T19:17:13.069
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-14T19:17:13.071
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:12 [0m
+
+# Created at 2019-11-14T19:17:13.073
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-14T19:17:13.075
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:13 [0m
+
+# Created at 2019-11-14T19:17:13.077
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-14T19:17:13.079
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:14 [0m
+
+# Created at 2019-11-14T19:17:13.081
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-14T19:17:13.084
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.086
+Unexpected IOException with stream: 4
+
+# Created at 2019-11-14T19:17:13.091
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2019-11-14T19:17:13.093
+Unexpected IOException with stream: [31m4 failed[0m
+
+# Created at 2019-11-14T19:17:13.095
+Unexpected IOException with stream: )
+
+
+# Created at 2019-11-14T19:17:13.098
+Unexpected IOException with stream: 16
+
+# Created at 2019-11-14T19:17:13.100
+Unexpected IOException with stream:  Steps (
+
+# Created at 2019-11-14T19:17:13.102
+Unexpected IOException with stream: [31m4 failed[0m
+
+# Created at 2019-11-14T19:17:13.105
+Unexpected IOException with stream: , 
+
+# Created at 2019-11-14T19:17:13.107
+Unexpected IOException with stream: [36m9 skipped[0m
+
+# Created at 2019-11-14T19:17:13.109
+Unexpected IOException with stream: , 
+
+# Created at 2019-11-14T19:17:13.112
+Unexpected IOException with stream: [32m3 passed[0m
+
+# Created at 2019-11-14T19:17:13.115
+Unexpected IOException with stream: )
+
+
+# Created at 2019-11-14T19:17:13.117
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-14T19:17:13.121
+Unexpected IOException with stream: 35.338s
+
+
+# Created at 2019-11-14T19:17:13.123
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.129
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=78.0.3904.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH03', ip: '192.168.25.65', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc..., userDataDir: C:\Users\DURGAN\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64202}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c088a8af7cc2d5f8012496cddc0398ec
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-14T19:17:13.132
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.134
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-14T19:17:13.136
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.138
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+# Created at 2019-11-14T19:17:13.140
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.142
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2019-11-14T19:17:13.144
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.146
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2019-11-14T19:17:13.148
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.150
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2019-11-14T19:17:13.152
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.154
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2019-11-14T19:17:13.156
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.158
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2019-11-14T19:17:13.160
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.162
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-14T19:17:13.164
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.166
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-14T19:17:13.168
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.170
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-14T19:17:13.172
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.174
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-14T19:17:13.176
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.178
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-14T19:17:13.180
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.183
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-14T19:17:13.185
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.187
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-14T19:17:13.189
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.191
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:29)
+
+# Created at 2019-11-14T19:17:13.193
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.195
+Unexpected IOException with stream: 	at ?.user can enter the "labuser","labuser@01"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-14T19:17:13.197
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.199
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.201
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=78.0.3904.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH03', ip: '192.168.25.65', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc..., userDataDir: C:\Users\DURGAN\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64225}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c1a9af7ad180f11fe3953d0b2aaf89d7
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-14T19:17:13.203
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.206
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-14T19:17:13.208
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.210
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+# Created at 2019-11-14T19:17:13.212
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.214
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2019-11-14T19:17:13.216
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.218
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2019-11-14T19:17:13.220
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.221
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2019-11-14T19:17:13.223
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.225
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2019-11-14T19:17:13.227
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.228
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2019-11-14T19:17:13.230
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.232
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-14T19:17:13.234
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.235
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-14T19:17:13.237
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.239
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-14T19:17:13.240
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.242
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-14T19:17:13.244
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.246
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-14T19:17:13.248
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.250
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-14T19:17:13.252
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.254
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-14T19:17:13.256
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.258
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:29)
+
+# Created at 2019-11-14T19:17:13.260
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.262
+Unexpected IOException with stream: 	at ?.user can enter the "labuser@01","labuser"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-14T19:17:13.264
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.266
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.268
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: unknown error: Chrome failed to start: exited normally
+  (chrome not reachable)
+  (The process started from chrome location C:\Program Files (x86)\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH03', ip: '192.168.25.65', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_201'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00F7EBD3+1502163]
+	Ordinal0 [0x00EFF781+980865]
+	Ordinal0 [0x00E8763F+489023]
+	Ordinal0 [0x00E1C26C+49772]
+	Ordinal0 [0x00E397E0+169952]
+	Ordinal0 [0x00E3940D+168973]
+	Ordinal0 [0x00E378EB+162027]
+	Ordinal0 [0x00E20AC7+68295]
+	Ordinal0 [0x00E21B40+72512]
+	Ordinal0 [0x00E21AD9+72409]
+	Ordinal0 [0x00F18FE7+1085415]
+	GetHandleVerifier [0x0101D8AD+503293]
+	GetHandleVerifier [0x0101D640+502672]
+	GetHandleVerifier [0x0102471C+531564]
+	GetHandleVerifier [0x0101E0BA+505354]
+	Ordinal0 [0x00F106B6+1050294]
+	Ordinal0 [0x00F1052F+1049903]
+	Ordinal0 [0x00F1B04B+1093707]
+	Ordinal0 [0x00F1B1B3+1094067]
+	Ordinal0 [0x00F1A145+1089861]
+	BaseThreadInitThunk [0x76EC6A14+36]
+	RtlInitializeExceptionChain [0x7754AD8F+143]
+	RtlInitializeExceptionChain [0x7754AD5A+90]
+
+
+# Created at 2019-11-14T19:17:13.270
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.272
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-14T19:17:13.274
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.277
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+# Created at 2019-11-14T19:17:13.279
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.280
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2019-11-14T19:17:13.282
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.284
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2019-11-14T19:17:13.286
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.288
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+
+# Created at 2019-11-14T19:17:13.289
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.291
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+
+# Created at 2019-11-14T19:17:13.293
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.295
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+
+# Created at 2019-11-14T19:17:13.297
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.299
+Unexpected IOException with stream: 	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+
+# Created at 2019-11-14T19:17:13.301
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.302
+Unexpected IOException with stream: 	at java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+
+# Created at 2019-11-14T19:17:13.304
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.306
+Unexpected IOException with stream: 	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+
+# Created at 2019-11-14T19:17:13.309
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.310
+Unexpected IOException with stream: 	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+
+# Created at 2019-11-14T19:17:13.312
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.314
+Unexpected IOException with stream: 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+
+# Created at 2019-11-14T19:17:13.316
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.318
+Unexpected IOException with stream: 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+
+# Created at 2019-11-14T19:17:13.319
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.321
+Unexpected IOException with stream: 	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+
+# Created at 2019-11-14T19:17:13.323
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.326
+Unexpected IOException with stream: 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+
+# Created at 2019-11-14T19:17:13.327
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.329
+Unexpected IOException with stream: 	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+
+# Created at 2019-11-14T19:17:13.332
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.334
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+
+# Created at 2019-11-14T19:17:13.336
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.339
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+
+# Created at 2019-11-14T19:17:13.341
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.342
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+
+# Created at 2019-11-14T19:17:13.344
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.346
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-14T19:17:13.348
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.350
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-14T19:17:13.352
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.354
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+
+# Created at 2019-11-14T19:17:13.355
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.357
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+
+# Created at 2019-11-14T19:17:13.359
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.360
+Unexpected IOException with stream: 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+
+# Created at 2019-11-14T19:17:13.362
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.364
+Unexpected IOException with stream: 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+
+# Created at 2019-11-14T19:17:13.366
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.368
+Unexpected IOException with stream: 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+
+# Created at 2019-11-14T19:17:13.370
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.372
+Unexpected IOException with stream: 	at org.step.scripts.user_launch_the_browser(scripts.java:21)
+
+# Created at 2019-11-14T19:17:13.374
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.377
+Unexpected IOException with stream: 	at ?.user launch the browser(src/test/resources/Features/log.feature:5)
+
+# Created at 2019-11-14T19:17:13.379
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.381
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.384
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=78.0.3904.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH03', ip: '192.168.25.65', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 77.0.3865.10 (bc3579f611bbc..., userDataDir: C:\Users\DURGAN\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64272}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2f1f7ca5407edeadf4187f98c17aee12
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-14T19:17:13.386
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.388
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-14T19:17:13.390
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.392
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+# Created at 2019-11-14T19:17:13.393
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.395
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2019-11-14T19:17:13.397
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.399
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2019-11-14T19:17:13.401
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.402
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2019-11-14T19:17:13.404
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.406
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2019-11-14T19:17:13.407
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.409
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2019-11-14T19:17:13.411
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.413
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-14T19:17:13.415
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.417
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-14T19:17:13.418
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.420
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-14T19:17:13.422
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.426
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-14T19:17:13.429
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.432
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-14T19:17:13.434
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.436
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-14T19:17:13.438
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.440
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-14T19:17:13.442
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.444
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:29)
+
+# Created at 2019-11-14T19:17:13.446
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.448
+Unexpected IOException with stream: 	at ?.user can enter the "labuser@01","labuser@01"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-14T19:17:13.449
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.451
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.453
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-14T19:17:13.455
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,org.runner.TestRunner,null,null,null
+
+
