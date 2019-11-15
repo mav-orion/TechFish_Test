@@ -5,7 +5,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
  
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src\\test\\resources\\Features\\log.feature",glue={"org/step"})
+@CucumberOptions(features = "src/test/resources/Features/log.feature",glue={"org/step"})
  
 public class TestRunner {
  
