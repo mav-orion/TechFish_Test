@@ -1,17 +1,16 @@
-
 Feature: Validate the login page
 
   Scenario Outline: 
-    Given user launch the browser
+    Given user launch the browser"<browserType>"
     When user can enter the "<user_name>","<password>"
     And user can able to click the checkbox
     Then user can navigate to signin
     Examples: 
-      | user_name  | password   |
-      | labuser    | labuser@01 |
-     | labuser@01 | labuser    |
-    | labuser    | lab@02     |
-    | labuser@01 | labuser@01 |
+      |browserType| user_name  | password   |
+      |Chrome| labuser    | labuser@01 |      
+     |Chrome| labuser@01 | labuser    |
+    |Chrome| labuser    | lab@02     |
+    |Chrome| labuser@01 | labuser@01 |
       
 
    #  Scenario Outline:

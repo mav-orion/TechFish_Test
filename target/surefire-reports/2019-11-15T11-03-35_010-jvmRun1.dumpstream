@@ -1,0 +1,787 @@
+# Created at 2019-11-15T11:03:57.129
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-11-15T11:03:58.177
+Unexpected IOException with stream: Nov 15, 2019 11:03:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2019-11-15T11:04:00.385
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.387
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.389
+Unexpected IOException with stream: 32m
+
+# Created at 2019-11-15T11:04:00.391
+Unexpected IOException with stream: .
+
+# Created at 2019-11-15T11:04:00.393
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.395
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.396
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-15T11:04:00.434
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.437
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.439
+Unexpected IOException with stream: 31m
+
+# Created at 2019-11-15T11:04:00.440
+Unexpected IOException with stream: F
+
+# Created at 2019-11-15T11:04:00.442
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.445
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.446
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-15T11:04:00.449
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.450
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.453
+Unexpected IOException with stream: 36m
+
+# Created at 2019-11-15T11:04:00.455
+Unexpected IOException with stream: -
+
+# Created at 2019-11-15T11:04:00.457
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.459
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.460
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-15T11:04:00.462
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.464
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.466
+Unexpected IOException with stream: 36m
+
+# Created at 2019-11-15T11:04:00.468
+Unexpected IOException with stream: -
+
+# Created at 2019-11-15T11:04:00.469
+Unexpected IOException with stream: 
+
+# Created at 2019-11-15T11:04:00.471
+Unexpected IOException with stream: [
+
+# Created at 2019-11-15T11:04:00.473
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-15T11:04:00.477
+Unexpected IOException: 7,1,Validate the login page,EMPTY_NAME(Validate the login page),null,no such element: Unable to locate element: {"method":"id"\002C"selector":"username"}\000A  (Session info: chrome=78.0.3904.97)\000A  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH06'\002C ip: '192.168.25.73'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_162'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca...\002C userDataDir: C:\005CUsers\005Cmuralim\005CAppData\005CLo...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 78.0.3904.97\002C webStorageEnabled: true}\000ASession ID: e94ca514bf9c1cb9a1196914a9878d1a\000A*** Element info: {Using=id\002C value=username},null,no such element: Unable to locate element: {"method":"id"\002C"selector":"username"}\000A  (Session info: chrome=78.0.3904.97)\000A  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH06'\002C ip: '192.168.25.73'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_162'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca...\002C userDataDir: C:\005CUsers\005Cmuralim\005CAppData\005CLo...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 78.0.3904.97\002C webStorageEnabled: true}\000ASession ID: e94ca514bf9c1cb9a1196914a9878d1a\000A*** Element info: {Using=id\002C value=username},no such element: Unable to locate element: {"method":"id"\002C"selector":"username"}\000A  (Session info: chrome=78.0.3904.97)\000A  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH06'\002C ip: '192.168.25.73'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_162'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca...\002C userDataDir: C:\005CUsers\005Cmuralim\005CAppData\005CLo...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 78.0.3904.97\002C webStorageEnabled: true}\000ASession ID: e94ca514bf9c1cb9a1196914a9878d1a\000A*** Element info: {Using=id\002C value=username},org.openqa.selenium.NoSuchElementException: \000Ano such element: Unable to locate element: {"method":"id"\002C"selector":"username"}\000A  (Session info: chrome=78.0.3904.97)\000A  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'W2012R2-BENCH06'\002C ip: '192.168.25.73'\002C os.name: 'Windows Server 2012 R2'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_162'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca...\002C userDataDir: C:\005CUsers\005Cmuralim\005CAppData\005CLo...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 78.0.3904.97\002C webStorageEnabled: true}\000ASession ID: e94ca514bf9c1cb9a1196914a9878d1a\000A*** Element info: {Using=id\002C value=username}\000A
+
+
+# Created at 2019-11-15T11:04:00.485
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.487
+Unexpected IOException with stream: [31mFailed scenarios:[0m
+
+
+# Created at 2019-11-15T11:04:00.489
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:11 [0m
+
+# Created at 2019-11-15T11:04:00.491
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-15T11:04:00.492
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:12 [0m
+
+# Created at 2019-11-15T11:04:00.494
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-15T11:04:00.498
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:13 [0m
+
+# Created at 2019-11-15T11:04:00.499
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-15T11:04:00.502
+Unexpected IOException with stream: [31msrc/test/resources/Features/log.feature:14 [0m
+
+# Created at 2019-11-15T11:04:00.503
+Unexpected IOException with stream: # 
+
+
+# Created at 2019-11-15T11:04:00.505
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.507
+Unexpected IOException with stream: 4
+
+# Created at 2019-11-15T11:04:00.509
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2019-11-15T11:04:00.510
+Unexpected IOException with stream: [31m4 failed[0m
+
+# Created at 2019-11-15T11:04:00.512
+Unexpected IOException with stream: )
+
+
+# Created at 2019-11-15T11:04:00.514
+Unexpected IOException with stream: 16
+
+# Created at 2019-11-15T11:04:00.517
+Unexpected IOException with stream:  Steps (
+
+# Created at 2019-11-15T11:04:00.519
+Unexpected IOException with stream: [31m4 failed[0m
+
+# Created at 2019-11-15T11:04:00.520
+Unexpected IOException with stream: , 
+
+# Created at 2019-11-15T11:04:00.523
+Unexpected IOException with stream: [36m8 skipped[0m
+
+# Created at 2019-11-15T11:04:00.524
+Unexpected IOException with stream: , 
+
+# Created at 2019-11-15T11:04:00.526
+Unexpected IOException with stream: [32m4 passed[0m
+
+# Created at 2019-11-15T11:04:00.528
+Unexpected IOException with stream: )
+
+
+# Created at 2019-11-15T11:04:00.530
+Unexpected IOException with stream: 0m
+
+# Created at 2019-11-15T11:04:00.533
+Unexpected IOException with stream: 21.676s
+
+
+# Created at 2019-11-15T11:04:00.535
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.539
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"username"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH06', ip: '192.168.25.73', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\muralim\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: f894a1b305a51275d18c65ac42d79f21
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-15T11:04:00.542
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.544
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-15T11:04:00.546
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.548
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.550
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.552
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.555
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.556
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.558
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.560
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+
+# Created at 2019-11-15T11:04:00.562
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.564
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+
+# Created at 2019-11-15T11:04:00.566
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.568
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+
+# Created at 2019-11-15T11:04:00.570
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.572
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+
+# Created at 2019-11-15T11:04:00.574
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.577
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+
+# Created at 2019-11-15T11:04:00.578
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.580
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-15T11:04:00.582
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.584
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-15T11:04:00.587
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.588
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-15T11:04:00.590
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.593
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-15T11:04:00.595
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.600
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-15T11:04:00.601
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.603
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-15T11:04:00.606
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.608
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-15T11:04:00.608
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.611
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:32)
+
+# Created at 2019-11-15T11:04:00.612
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.615
+Unexpected IOException with stream: 	at ?.user can enter the "labuser","labuser@01"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-15T11:04:00.616
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.618
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.621
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"username"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH06', ip: '192.168.25.73', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\muralim\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: a4807c992aaa5c02cff966c431acecee
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-15T11:04:00.624
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.627
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-15T11:04:00.628
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.630
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.633
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.635
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.637
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.639
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.640
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.642
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+
+# Created at 2019-11-15T11:04:00.644
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.646
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+
+# Created at 2019-11-15T11:04:00.648
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.651
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+
+# Created at 2019-11-15T11:04:00.652
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.654
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+
+# Created at 2019-11-15T11:04:00.655
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.658
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+
+# Created at 2019-11-15T11:04:00.659
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.662
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-15T11:04:00.664
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.665
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-15T11:04:00.667
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.669
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-15T11:04:00.672
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.672
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-15T11:04:00.674
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.676
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-15T11:04:00.678
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.681
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-15T11:04:00.684
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.686
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-15T11:04:00.686
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.688
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:32)
+
+# Created at 2019-11-15T11:04:00.691
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.693
+Unexpected IOException with stream: 	at ?.user can enter the "labuser@01","labuser"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-15T11:04:00.694
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.696
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.698
+Unexpected IOException with stream: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH06', ip: '192.168.25.73', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\muralim\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: baaafc8216b4833d0a13b9c18aa98b0a
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-15T11:04:00.701
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.704
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-15T11:04:00.705
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.707
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.710
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.710
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.712
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.714
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.716
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.718
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+
+# Created at 2019-11-15T11:04:00.720
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.722
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+
+# Created at 2019-11-15T11:04:00.724
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.726
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+
+# Created at 2019-11-15T11:04:00.727
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.730
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+
+# Created at 2019-11-15T11:04:00.733
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.734
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+
+# Created at 2019-11-15T11:04:00.736
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.737
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-15T11:04:00.738
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.741
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-15T11:04:00.742
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.744
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-15T11:04:00.746
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.748
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-15T11:04:00.751
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.753
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-15T11:04:00.754
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.757
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-15T11:04:00.759
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.760
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-15T11:04:00.761
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.764
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:32)
+
+# Created at 2019-11-15T11:04:00.766
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.769
+Unexpected IOException with stream: 	at ?.user can enter the "labuser","lab@02"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-15T11:04:00.771
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.773
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.775
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"username"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH06', ip: '192.168.25.73', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\muralim\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: e94ca514bf9c1cb9a1196914a9878d1a
+*** Element info: {Using=id, value=username}
+
+# Created at 2019-11-15T11:04:00.776
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.778
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-11-15T11:04:00.780
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.780
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.784
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.785
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.786
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.788
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+
+# Created at 2019-11-15T11:04:00.789
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.791
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+
+# Created at 2019-11-15T11:04:00.793
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.794
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+
+# Created at 2019-11-15T11:04:00.797
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.799
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+
+# Created at 2019-11-15T11:04:00.800
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.802
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+
+# Created at 2019-11-15T11:04:00.805
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.806
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+
+# Created at 2019-11-15T11:04:00.808
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.810
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-15T11:04:00.812
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.813
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-15T11:04:00.815
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.815
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2019-11-15T11:04:00.818
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.820
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+
+# Created at 2019-11-15T11:04:00.821
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.823
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+
+# Created at 2019-11-15T11:04:00.825
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.827
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ById.findElement(By.java:188)
+
+# Created at 2019-11-15T11:04:00.832
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.834
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+
+# Created at 2019-11-15T11:04:00.835
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.837
+Unexpected IOException with stream: 	at org.step.scripts.user_can_enter_the(scripts.java:32)
+
+# Created at 2019-11-15T11:04:00.839
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.840
+Unexpected IOException with stream: 	at ?.user can enter the "labuser@01","labuser@01"(src/test/resources/Features/log.feature:6)
+
+# Created at 2019-11-15T11:04:00.842
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.844
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.845
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-15T11:04:00.847
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,org.runner.TestRunner,null,null,null
+
+

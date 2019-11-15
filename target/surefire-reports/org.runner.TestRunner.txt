@@ -1,4 +1,13 @@
 -------------------------------------------------------------------------------
 Test set: org.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.106 s - in org.runner.TestRunner
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 198.163 s <<< FAILURE! - in org.runner.TestRunner
+EMPTY_NAME(Validate the login page)  Time elapsed: 141.004 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+cannot forward the request unexpected end of stream on Connection{172.17.0.6:40030, proxy=DIRECT hostAddress=/172.17.0.6:40030 cipherSuite=none protocol=http/1.1}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'W2012R2-BENCH06', ip: '192.168.25.73', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: /tmp/.com.google.Chrome.Ea1wxK}, goog:chromeOptions: {debuggerAddress: localhost:32915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: b23d02f2ac1330163b46f42ee85...}
+Session ID: b23d02f2ac1330163b46f42ee85d1bb5
+
