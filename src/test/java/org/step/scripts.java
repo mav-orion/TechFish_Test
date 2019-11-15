@@ -17,7 +17,11 @@ public class scripts {
 
 	@Given("user launch the browser")
 	public void user_launch_the_browser() {
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\DURGAN\\eclipse-workspace\\TechfishBank\\driver\\chromedriver.exe");	
+		String path = System.getProperty("user.dir") + "\\chromedriver.exe";
+		System.out.println(path);
+
+		System.setProperty("webdriver.chrome.driver", path);
+		
 		driver=new ChromeDriver();	
 		String url = System.getProperty("launchUrl");
 		driver.get(url);
