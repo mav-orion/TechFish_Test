@@ -17,7 +17,7 @@ public class scripts {
 
 	@Given("user launch the browser")
 	public void user_launch_the_browser() {
-		String path = System.getProperty("user.dir") + "\\chromedriver.exe";
+		String path = System.getProperty("user.dir") + "/chromedriver.exe";
 		System.out.println(path);
 
 		System.setProperty("webdriver.chrome.driver", path);
