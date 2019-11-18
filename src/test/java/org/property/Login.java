@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class Login {
 	public static RemoteWebDriver driver;
 	//@Parameters({ "browserType" })
-	//@Test
+	@Test
 	public void log(String browserType) throws MalformedURLException{
 	
 	DesiredCapabilities dr = DesiredCapabilities.chrome();
