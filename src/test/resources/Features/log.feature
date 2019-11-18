@@ -8,9 +8,9 @@ Feature: Validate the login page
     Examples: 
       |browserType| user_name  | password   |
       |Chrome| labuser    | labuser@01 |      
-     |Chrome| labuser@01 | labuser    |
-    |Chrome| labuser    | lab@02     |
-    |Chrome| labuser@01 | labuser@01 |
+   # |Chrome| labuser@01 | labuser    |
+   # |Chrome| labuser    | lab@02     |
+  #  |Chrome| labuser@01 | labuser@01 |
       
 
    #  Scenario Outline:
