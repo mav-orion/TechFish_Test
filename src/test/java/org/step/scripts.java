@@ -71,6 +71,7 @@ public class scripts  extends Login {
 	@Then("user can navigate to appointment")
 	public void user_can_navigate_to_appointment() {
 		driver.findElement(By.xpath("(//a[@class='dropdown-toggle'])[3]")).click();
+		driver.quit();
 	}
 
 }
