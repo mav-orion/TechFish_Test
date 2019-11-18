@@ -6,12 +6,11 @@ import java.net.URL;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.annotations.Test;
+
 
 public class Login {
 	public static RemoteWebDriver driver;
-	//@Parameters({ "browserType" })
-	@Test
+	
 	public void log(String browserType) throws MalformedURLException{
 	
 	DesiredCapabilities dr = DesiredCapabilities.chrome();
