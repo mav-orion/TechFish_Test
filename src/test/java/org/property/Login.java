@@ -1,31 +1,46 @@
 package org.property;
 
+import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
 import org.openqa.selenium.Platform;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.GeckoDriverInfo;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
 
+import utils.TakeScreenshot;
+import utils.driverutils;
 
-public class Login {
-	public static RemoteWebDriver driver;
+public class Login extends driverutils {
+	TakeScreenshot report=new TakeScreenshot();
+	//@Parameters({ "browserType" })
+	//@Test
+	public void log(String browser) throws IOException{
 	
-	public void log(String browserType) throws MalformedURLException{
 	
-	DesiredCapabilities dr = DesiredCapabilities.chrome();
-	dr.setPlatform(Platform.LINUX);
-	dr.setVersion("");
-	/*else{
-		dr=DesiredCapabilities.internetExplorer();
-		dr.setBrowserName("iexplore");
-		dr.setPlatform(Platform.WINDOWS);
-	}*/
+	// String url = System.getProperty("launchUrl");
 		
-	 driver=new RemoteWebDriver(new URL("http://docker.rapidtestpro.com:4444/wd/hub"), dr);
-	
-	 String url = System.getProperty("launchUrl");
+		if(browser.equals("chrome"))
+			{System.setProperty("webdriver.chrome.driver","C:\\Users\\muralim\\git\\TechFish_Test1\\chromedriver.exe");
+		driver=new ChromeDriver();}
+		else if(browser.equals("IE")){
+		System.setProperty("webdriver.ie.driver","C:\\Users\\muralim\\git\\TechFish_Test1\\IEDriverServer.exe");
+		driver=new InternetExplorerDriver();}
+		else if(browser.equals("firefox"))
+		{
+			System.setProperty("webdriver.gecko.driver","C:\\Users\\muralim\\git\\TechFish_Test1\\geckodriver.exe");
+			driver=new FirefoxDriver();
+		}
+		String url = "http://elastic.rapidtestpro.com:8086/index";
 		driver.get(url);
+		
+		//report.Screenshot();
+		
 	 
 	}
 	
