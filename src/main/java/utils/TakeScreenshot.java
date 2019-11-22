@@ -24,8 +24,8 @@ public void Screenshot()
 	 try { 
 		 LocalTime time =java.time.LocalTime.now();
 		 String suff=time.toString().replace(":", "").replace(".", "");
-		 
-	 ImageIO.write(screenshot.getImage(),"jpeg",new File("C:\\Users\\muralim\\ScreenShot"+suff+".jpeg"));            
+		 System.out.println(time);
+	 ImageIO.write(screenshot.getImage(),"jpeg",new File(path+"\\ScreenShot"+suff+".jpeg"));            
 	 
 	 }
 	 catch (IOException e) {                    

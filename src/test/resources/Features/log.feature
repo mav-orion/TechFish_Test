@@ -1,19 +1,19 @@
 @techfish
 Feature: Validate the login page
  @home 
-  Scenario Outline: Validate the login page
+  Scenario Outline: TC_01_Validate the login page
     Given user launch the browser"<browserType>"
     When user can enter the "<user_name>","<password>"
     And user can able to click the checkbox
     Then user can navigate to signin
     Examples: 
       |browserType| user_name  | password   |
-      |IE| labuser    | labuser@01 |      
-    # |Chrome| labuser@01 | labuser    |
+     # |Chrome| labuser    | labuser@01 |      
+       |chrome| labuser@01 | labuser    |
     #|Chrome| labuser    | lab@02     |
     #|Chrome| labuser@01 | labuser@01 |     
 @home1 
-     Scenario Outline: Validate the login page_Accounts
+     Scenario Outline: TC_02_Validate the login page_Accounts
       Given user launch the browser"<browserType>"
       When user can enter the "<user_name>","<password>"
       And user can able to click the checkbox
@@ -26,7 +26,7 @@ Feature: Validate the login page
          |browserType| user_name       | password   |
          |chrome     | labuser         | labuser@01 |      
 @home2
-     Scenario Outline:Validate the login page_Transfer
+     Scenario Outline:TC_03_Validate the login page_Transfer
       Given user launch the browser"<browserType>"
       When user can enter the "<user_name>","<password>"
       And user can able to click the checkbox
@@ -41,7 +41,7 @@ Feature: Validate the login page
          
              
 @home3
-     Scenario Outline:Validate the login page_Appointment
+     Scenario Outline:TC_04_Validate the login page_Appointment
       Given user launch the browser"<browserType>"
       When user can enter the "<user_name>","<password>"
       And user can able to click the checkbox

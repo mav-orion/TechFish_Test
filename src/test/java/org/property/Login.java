@@ -3,8 +3,12 @@ package org.property;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
 
+import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.Platform;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.GeckoDriverInfo;
@@ -12,6 +16,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
+
 
 import utils.TakeScreenshot;
 import utils.driverutils;
@@ -36,6 +41,7 @@ public class Login extends driverutils {
 			System.setProperty("webdriver.gecko.driver","C:\\Users\\muralim\\git\\TechFish_Test1\\geckodriver.exe");
 			driver=new FirefoxDriver();
 		}
+		driver.manage().window().maximize();
 		String url = "http://elastic.rapidtestpro.com:8086/index";
 		driver.get(url);
 		
@@ -55,6 +61,24 @@ public class Login extends driverutils {
 		driver.get(url);
 	}*/
 	
+	@SuppressWarnings("deprecation")
+	public void login(String UserID ,String Password) throws InterruptedException
+	{
+		driver.findElement(By.id("username")).sendKeys(UserID);
+		driver.findElement(By.id("password")).sendKeys(Password);
+		driver.findElement(By.id("remember-me")).click();
+		driver.findElement(By.xpath("//button[text()='Sign in']")).click(); 
+		//report.Screenshot();
+		Thread.sleep(2000);
+		/*WebElement err=driver.findElement(By.xpath("//div[contains(text(),' Invalid username and secret.')]"));
+	if(err.getText().contains(""))
+   {
+		Assert.fail("Invalid username and secret.");
+	}*/
 	
+		
+	
+		
+	}
 	
 }

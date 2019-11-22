@@ -1,7 +1,11 @@
 package utils;
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
@@ -12,6 +16,9 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 public class driverutils {
 	//public static RemoteWebDriver driver;
 	public static WebDriver driver;
+	
+	public static String path="";
+	
 	public void getDriver() throws MalformedURLException
 	{
 		
@@ -26,14 +33,18 @@ public class driverutils {
 			dr.setBrowserName("iexplore");
 			dr.setPlatform(Platform.WINDOWS);
 		}*/
-			
-		
-		
-		
-		
-	
-		
-	
+
 	}
+	public void newdir(String tagname){
+		 
+			  
+			  LocalTime time =java.time.LocalTime.now();
+				 String suff=time.toString().replace(":", "").replace(".", "");
+			 path="C:\\Users\\muralim\\git\\TechFish_Test1\\ScreenShot\\Run"+tagname+suff; 
+		  File newdirectory = new File(path);
+		  newdirectory.mkdir();
+		 
+		  
+		  }
 
 }
